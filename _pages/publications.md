@@ -13,10 +13,28 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+## In Review
+
+<div class="publications">
+
+{% bibliography --file in_review %}
+
+</div>
+
+## Journal Articles
+
 <div class="publications">
 
 {% bibliography %}
 
 </div>
 
-## misc.
+## Pre-prints
+
+<div class="publications">
+
+{% bibliography --file pre_print %}
+
+</div>
+
+## misc

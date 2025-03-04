@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-9-10 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I have graduated from the MSc in Mathematical Modelling and Scientific Computing
+ [(MMSC)](https://www.maths.ox.ac.uk/members/students/postgraduate-courses/msc-mmsc)
+ at the University of Oxford.

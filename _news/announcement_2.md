@@ -7,6 +7,6 @@ related_posts: false
 
 I have been awarded the Kathryn Gillow Prize for the best dissertation in my cohort of
 the [MMSC](https://www.maths.ox.ac.uk/members/students/postgraduate-courses/msc-mmsc).
-My dissertation was titled "*Computing Zeros and Poles of Complex Functions Numerically*"
+My dissertation was titled "_Computing Zeros and Poles of Complex Functions Numerically_"
 and was supervised by [Prof. Yuji Nakatsukasa](https://people.maths.ox.ac.uk/nakatsukasa/)
 and Dr. Irwin Zaid. I hope to write this up into a publication soon.

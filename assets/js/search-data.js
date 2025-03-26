@@ -49,7 +49,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-attending-the-icms-modelling-camp-2025-at-the-bayes-centre-edinburgh",
           title: 'I will be attending the ICMS Modelling Camp 2025 at the Bayes Centre,...',
           description: "",
-          section: "News",},{id: "news-i-will-be-starting-my-phd-at-the-school-of-engineering-mathematics-and-technology-university-of-bristol-supervised-by-prof-alan-champneys-and-dr-matt-hennessy-i-will-be-study-mechanical-biochemical-mathematical-models-for-cell-polarity",
+          section: "News",},{id: "news-i-will-be-starting-my-phd-at-the-school-of-engineering-mathematics-and-technology-university-of-bristol-supervised-by-prof-alan-champneys-and-dr-matt-hennessy-during-which-i-will-be-study-mechanical-biochemical-mathematical-models-for-cell-polarity",
           title: 'I will be starting my PhD at the School of Engineering Mathematics and...',
           description: "",
           section: "News",},{

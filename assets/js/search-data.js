@@ -37,7 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-have-graduated-from-the-msc-in-mathematical-modelling-and-scientific-computing-mmsc-at-the-university-of-oxford",
+        },{id: "dropdown-countries-visited",
+              title: "Countries Visited",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/assets/visited_places/index.html";
+              },
+            },{id: "news-i-have-graduated-from-the-msc-in-mathematical-modelling-and-scientific-computing-mmsc-at-the-university-of-oxford",
           title: 'I have graduated from the MSc in Mathematical Modelling and Scientific Computing (MMSC)...',
           description: "",
           section: "News",},{id: "news-i-have-been-awarded-the-kathryn-gillow-prize-for-the-best-dissertation-in-my-cohort-of-the-mmsc-my-dissertation-was-titled-computing-zeros-and-poles-of-complex-functions-numerically-and-was-supervised-by-prof-yuji-nakatsukasa-and-dr-irwin-zaid-i-hope-to-write-this-up-into-a-publication-soon",

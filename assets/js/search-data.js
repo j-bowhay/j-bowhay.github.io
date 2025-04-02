@@ -63,6 +63,13 @@ ninja.data = [{
           title: 'I will be starting my PhD at the School of Engineering Mathematics and...',
           description: "",
           section: "News",},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%75%70%31%39%30%35%36@%62%72%69%73%74%6F%6C.%61%63.%75%6B", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',

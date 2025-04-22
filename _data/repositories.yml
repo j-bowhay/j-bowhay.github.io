@@ -4,3 +4,5 @@ repo_description_lines_max: 2
 
 github_repos:
   - scipy/scipy
+  - j-bowhay/Maths-Experiments
+  - j-bowhay/scikit-zeros

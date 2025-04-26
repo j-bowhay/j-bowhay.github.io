@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 I will be attending the [3rd Scientific Python Developer Summit](https://scientific-python.org/summits/developer/2025/) at the
-[eScience Institute, University the Washington](https://escience.washington.edu/).
+[eScience Institute, University of Washington](https://escience.washington.edu/).

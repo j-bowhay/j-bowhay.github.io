@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-mathematics-in-industry",
+          title: "mathematics in industry",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/industry";
+          },
         },{id: "dropdown-countries-visited",
               title: "Countries Visited",
               description: "",
@@ -58,6 +65,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-will-be-attending-the-3rd-scientific-python-developer-summit-at-the-escience-institute-university-of-washington",
           title: 'I will be attending the 3rd Scientific Python Developer Summit at the eScience...',
+          description: "",
+          section: "News",},{id: "news-i-was-part-of-the-winning-group-at-the-icms-modelling-camp-2025-we-worked-on-a-project-facilitated-by-trainline-looking-at-possible-improvements-to-the-split-save-ticket-system-using-a-combination-of-machine-learning-and-graph-theory-techniques",
+          title: 'I was part of the winning group at the ICMS Modelling Camp 2025....',
           description: "",
           section: "News",},{id: "news-i-will-be-starting-my-phd-at-the-school-of-engineering-mathematics-and-technology-university-of-bristol-supervised-by-prof-alan-champneys-and-dr-matt-hennessy-during-which-i-will-be-studying-mechanical-biochemical-mathematical-models-for-cell-polarity",
           title: 'I will be starting my PhD at the School of Engineering Mathematics and...',

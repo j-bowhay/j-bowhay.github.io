@@ -6,8 +6,8 @@ nav: true
 nav_order: 5
 ---
 
-I am interested in solving problems that arise from industry and have worked with a wide
-range of companies both individually and as part of a team:
+I am interested in using maths to solve problems that arise in industry and have worked
+with a wide range of companies, both individually and as part of a team:
 
 - [Trainline](https://www.thetrainline.com/) - The Trainline offers its customers
   "split tickets", which involves buying two separate tickets via an intermediary station rather
@@ -32,7 +32,7 @@ range of companies both individually and as part of a team:
 </div>
 
 - [Sagnetia Innovation](https://www.sagentiainnovation.com/) - We developed a
-  network-based model of effective conductivity in polycrystalline structures.
+  network-based model to compute the effective conductivity of polycrystalline structures.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -52,4 +52,4 @@ range of companies both individually and as part of a team:
     </div>
 </div>
 
-- [CFMS](https://cfms.org.uk/) - I developed a model of a HPC data center cooling system.
+- [CFMS](https://cfms.org.uk/) - I developed a mathematical model of a HPC data center cooling system.

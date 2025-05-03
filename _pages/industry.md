@@ -10,10 +10,10 @@ I am interested in solving problems that arise from industry and have worked wit
 range of companies both individually and as part of a team:
 
 - [Trainline](https://www.thetrainline.com/) - The Trainline offers its customers
-"split tickets", which involves buying two separate tickets via an intermediary station rather
-than purchasing a direct ticket. This can often save the consumer a significant amount
-of money. We developed a new technique for solving this problem using machine learning-based
-pricing models and a hop-constrained shortest path solver.
+  "split tickets", which involves buying two separate tickets via an intermediary station rather
+  than purchasing a direct ticket. This can often save the consumer a significant amount
+  of money. We developed a new technique for solving this problem using machine learning-based
+  pricing models and a hop-constrained shortest path solver.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,8 +22,8 @@ pricing models and a hop-constrained shortest path solver.
 </div>
 
 - [CFMS](https://cfms.org.uk/) - I implemented a FEM solver for modelling the
-flow of resin in carbon fibre. I also researched stabilisation techniques for hyperbolic
-problems.
+  flow of resin in carbon fibre. I also researched stabilisation techniques for hyperbolic
+  problems.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -32,7 +32,7 @@ problems.
 </div>
 
 - [Sagnetia Innovation](https://www.sagentiainnovation.com/) - We developed a
-network-based model of effective conductivity in polycrystalline structures.
+  network-based model of effective conductivity in polycrystalline structures.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,7 +44,7 @@ network-based model of effective conductivity in polycrystalline structures.
 </div>
 
 - [DSTL](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) -
-We researched methods for detecting ocean eddy currents in seawater velocity data.
+  We researched methods for detecting ocean eddy currents in seawater velocity data.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

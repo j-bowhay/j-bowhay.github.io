@@ -72,6 +72,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-starting-my-phd-at-the-school-of-engineering-mathematics-and-technology-university-of-bristol-supervised-by-prof-alan-champneys-and-dr-matt-hennessy-during-which-i-will-be-studying-mechanical-biochemical-mathematical-models-for-cell-polarity",
           title: 'I will be starting my PhD at the School of Engineering Mathematics and...',
           description: "",
+          section: "News",},{id: "news-i-will-be-attending-the-2025-gene-golub-siam-summer-school-on-frontiers-in-multi-dimensional-pattern-formation-at-concordia-university",
+          title: 'I will be attending the 2025 Gene Golub SIAM Summer School on Frontiers...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

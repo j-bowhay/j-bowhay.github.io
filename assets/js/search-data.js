@@ -75,6 +75,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-attending-the-2025-gene-golub-siam-summer-school-on-frontiers-in-multi-dimensional-pattern-formation-at-concordia-university",
           title: 'I will be attending the 2025 Gene Golub SIAM Summer School on Frontiers...',
           description: "",
+          section: "News",},{id: "news-i-will-be-attending-the-187th-esgi-hosted-by-the-school-of-engineering-mathematics-and-technology-at-the-univeristy-of-bristol",
+          title: 'I will be attending the 187th ESGI hosted by the School of Engineering...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

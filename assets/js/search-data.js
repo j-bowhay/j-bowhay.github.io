@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/https:/j-bowhay.github.io/CV/Bowhay-CV.pdf";
           },
         },{id: "nav-mathematics-in-industry",
           title: "mathematics in industry",

@@ -78,6 +78,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-attending-the-187th-esgi-hosted-by-the-school-of-engineering-mathematics-and-technology-at-the-univeristy-of-bristol",
           title: 'I will be attending the 187th ESGI hosted by the School of Engineering...',
           description: "",
+          section: "News",},{id: "news-i-will-be-attending-the-amsterdam-center-for-dynamics-and-computation-acdc-autumn-school-from-microscopic-dynamics-to-continuum-limits",
+          title: 'I will be attending the Amsterdam Center for Dynamics and Computation (ACDC) Autumn...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

@@ -10,12 +10,12 @@ I am interested in using maths to solve problems that arise in industry and have
 with a wide range of companies, both individually and as part of a team:
 
 - [Paebbl](https://paebbl.com/) - Paebbl is interested in using concrete to store carbon
-        dioxide and is currently developing a process to do this. This process involves
-        pumping olivine mixed with water through a series of long pipes. Currently,
-        these pipes are susceptible to clogging, which meaning the reactor must be shut
-        down. We developed a mathematical model to understand the clogging of these pipes
-        so that the mechanism for clogging can be better understood and minimised in
-        future designs of the reactor.
+  dioxide and is currently developing a process to do this. This process involves
+  pumping olivine mixed with water through a series of long pipes. Currently,
+  these pipes are susceptible to clogging, which meaning the reactor must be shut
+  down. We developed a mathematical model to understand the clogging of these pipes
+  so that the mechanism for clogging can be better understood and minimised in
+  future designs of the reactor.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

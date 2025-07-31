@@ -3,6 +3,7 @@ COUNTRIES = {
   AUT: { fillKey: "visited" },
   BEL: { fillKey: "visited" },
   BLZ: { fillKey: "visited" },
+  CAN: { fillKey: "visited" },
   CHN: { fillKey: "visited" },
   CRI: { fillKey: "visited" },
   CYP: { fillKey: "visited" },

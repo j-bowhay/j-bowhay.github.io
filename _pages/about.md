@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the [School of Engineering Mathematics and Technology](https://www.bristol.ac.uk/science-engineering/schools/eng-maths-tech/) at the [University of Bristol](https://www.bristol.ac.uk/), supervised by Prof. Alan Champneys and <a href='https://hennessymatt.github.io/'>Dr. Matt Hennessy</a>. My PhD research concerns coupled models with pattern formation and domain growth. More broadly, I am interested in all things mathematical modelling; see my [CV](/cv) for more detailed research interests.
+I am a PhD student in the [School of Engineering Mathematics and Technology](https://www.bristol.ac.uk/science-engineering/schools/eng-maths-tech/) at the [University of Bristol](https://www.bristol.ac.uk/), supervised by Prof. Alan Champneys and <a href='https://hennessymatt.github.io/'>Dr. Matt Hennessy</a>. Broadly, I am interested in all things mathematical modelling and numerical analysis; see my [CV](/cv) for more detailed research interests.
 
 Before starting my PhD, I studied for the [MMSC](https://www.maths.ox.ac.uk/members/students/postgraduate-courses/msc-mmsc)
 at the [Mathematical Institute](https://www.maths.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), during which I studied a wide range of courses in mathematical modelling

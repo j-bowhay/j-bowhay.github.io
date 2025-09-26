@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /industry
-title: "mathematics in industry"
+title: "Mathematics in Industry"
 nav: true
 nav_order: 5
 ---

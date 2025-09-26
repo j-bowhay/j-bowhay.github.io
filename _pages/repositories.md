@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /os/
-title: open source
+title: Open Source
 description: Please see bellow for a list of open source software I maintain.
-nav: true
+nav: false
 nav_order: 4
 ---
 

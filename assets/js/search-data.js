@@ -4,41 +4,34 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-news",
-          title: "news",
+          title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-open-source",
-          title: "open source",
-          description: "Please see bellow for a list of open source software I maintain.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/os/";
-          },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/https:/j-bowhay.github.io/CV/Bowhay-CV.pdf";
           },
         },{id: "nav-mathematics-in-industry",
-          title: "mathematics in industry",
+          title: "Mathematics in Industry",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -50,6 +43,13 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/assets/visited_places/index.html";
+              },
+            },{id: "dropdown-open-source",
+              title: "Open Source",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/os/";
               },
             },{id: "news-i-have-graduated-from-the-msc-in-mathematical-modelling-and-scientific-computing-mmsc-at-the-university-of-oxford",
           title: 'I have graduated from the MSc in Mathematical Modelling and Scientific Computing (MMSC)...',

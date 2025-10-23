@@ -6,4 +6,5 @@ CITIES = [
   { name: "University of Edinburgh", latitude: 55.95, longitude: -3.183333, radius: 4, fillKey: "city" },
   { name: "Concordia University", latitude: 45.496944, longitude: -73.578056, radius: 4, fillKey: "city" },
   { name: "University of Cambridge", latitude: 52.205278, longitude: 0.117222, radius: 4, fillKey: "city" },
+  { name: "Vrije Universiteit Amsterdam", latitude: 52.333889, longitude: 4.865, radius: 4, fillKey: "city" },
 ];

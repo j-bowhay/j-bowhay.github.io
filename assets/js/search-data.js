@@ -30,26 +30,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/j-bowhay.github.io/CV/Bowhay-CV.pdf";
           },
-        },{id: "nav-mathematics-in-industry",
-          title: "Mathematics in Industry",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/industry";
-          },
-        },{id: "dropdown-countries-visited",
+        },{id: "dropdown-conferences",
+              title: "Conferences",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/conferences";
+              },
+            },{id: "dropdown-countries-visited",
               title: "Countries Visited",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/assets/visited_places/index.html";
               },
+            },{id: "dropdown-maths-in-industry",
+              title: "Maths in Industry",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/industry";
+              },
             },{id: "dropdown-open-source",
               title: "Open Source",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/os/";
+                window.location.href = "/os";
+              },
+            },{id: "dropdown-teaching",
+              title: "Teaching",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/teaching";
               },
             },{id: "news-i-have-graduated-from-the-msc-in-mathematical-modelling-and-scientific-computing-mmsc-at-the-university-of-oxford",
           title: 'I have graduated from the MSc in Mathematical Modelling and Scientific Computing (MMSC)...',

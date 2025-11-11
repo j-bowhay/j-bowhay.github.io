@@ -1,9 +1,7 @@
 ---
 layout: page
 permalink: /industry
-title: "Mathematics in Industry"
-nav: true
-nav_order: 5
+title: Mathematics in Industry
 ---
 
 I am interested in using maths to solve problems that arise in industry and have worked

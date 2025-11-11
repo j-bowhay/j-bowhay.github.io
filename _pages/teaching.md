@@ -1,12 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: true
-nav_order: 6
+title: Teaching
+nav: false
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## 2025/2026
 
-Organize your courses by years, topics, or universities, however you like!
+#### Graduate Teacher Level 2:
+
+- [SEMT30005 Mathematical and Data Modelling 3](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=SEMT30005)
+
+#### Demonstrator:
+
+- [SEMT30006 Methods of Applied Mathematics](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=SEMT30006)
+- [EMAT20013 Principles of Physical Modelling](https://www.bris.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=EMAT20013)

@@ -4,7 +4,6 @@ permalink: /os/
 title: Open Source
 description: Please see bellow for a list of open source software I maintain.
 nav: false
-nav_order: 4
 ---
 
 {% if site.data.repositories.github_repos %}

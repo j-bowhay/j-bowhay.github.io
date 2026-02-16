@@ -18,7 +18,6 @@ nav_order: 2
 
 ### Technical Reports
 
-
 <div class="publications">
 
 {% bibliography --file reports %}

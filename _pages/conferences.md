@@ -9,6 +9,9 @@ I have attended.
 
 ## 2025
 
+- Slender and Active: Mechanics of Emerging Materials and Systems, International Centre for Mathematical Sciences,
+  Edinburgh
+- SIAM Student Conference (Organiser), University of Bristol
 - [From microscopic dynamics to continuum limits - ACDC Autumn School](https://www.amsterdam-dynamics.nl/from-microscopic-dynamics-to-continuum-limits-acdc-autumn-school/),
   Amsterdam Center for Dynamics and Computation, Amsterdam
 - [UK Graduate Modelling Camp 2025](https://gateway.newton.ac.uk/event/tgm151/),

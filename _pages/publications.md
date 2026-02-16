@@ -16,6 +16,15 @@ nav_order: 2
 
 </div>
 
+### Technical Reports
+
+
+<div class="publications">
+
+{% bibliography --file reports %}
+
+</div>
+
 ## misc
 
 [Numerical Solutions of the Diffusion Equation Using the Finite Element Method](/assets/pdf/fem_special_topic.pdf)

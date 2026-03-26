@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/https:/j-bowhay.github.io/CV/Bowhay-CV.pdf";
-          },
         },{id: "dropdown-conferences",
               title: "Conferences",
               description: "",

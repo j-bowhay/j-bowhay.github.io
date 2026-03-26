@@ -7,6 +7,11 @@ title: Conferences
 Mostly for my own record, here is a list of all the academic conferences and events
 I have attended.
 
+## 2026
+
+- [Solving partial differential equations with Firedrake](https://www.firedrakeproject.org/tutorial_mar_26.html),
+  University of Oxford, Oxford
+
 ## 2025
 
 - Slender and Active: Mechanics of Emerging Materials and Systems, International Centre for Mathematical Sciences,

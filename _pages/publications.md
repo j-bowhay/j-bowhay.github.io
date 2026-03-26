@@ -8,6 +8,14 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+### Publications
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
+
 ### Pre-prints
 
 <div class="publications">

@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
+        },{id: "nav-notes",
+          title: "Notes",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-publications",
           title: "Publications",
           description: "",
@@ -58,7 +65,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/teaching";
               },
-            },{id: "news-i-have-graduated-from-the-msc-in-mathematical-modelling-and-scientific-computing-mmsc-at-the-university-of-oxford",
+            },{id: "post-the-goursat-representation-of-the-biharmonic-equation",
+      
+        title: "The Goursat representation of the biharmonic equation",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/goursat/";
+        
+      },
+    },{id: "post-rational-function-methods-for-pdes",
+      
+        title: "Rational function methods for PDEs",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/rat-pdes/";
+        
+      },
+    },{id: "news-i-have-graduated-from-the-msc-in-mathematical-modelling-and-scientific-computing-mmsc-at-the-university-of-oxford",
           title: 'I have graduated from the MSc in Mathematical Modelling and Scientific Computing (MMSC)...',
           description: "",
           section: "News",},{id: "news-i-have-been-awarded-the-kathryn-gillow-prize-for-the-best-dissertation-in-my-cohort-of-the-mmsc-my-dissertation-was-titled-computing-zeros-and-poles-of-complex-functions-numerically-and-was-supervised-by-prof-yuji-nakatsukasa-and-dr-irwin-zaid-i-hope-to-write-this-up-into-a-publication-soon",
@@ -67,26 +96,14 @@ ninja.data = [{
           section: "News",},{id: "news-scipy-1-15-0-has-been-released-there-are-lots-of-exciting-new-features-including-scipy-interpolate-aaa-which-i-wrote-as-part-of-my-msc-thesis-this-implements-the-aaa-algorithm-for-barycentric-rational-approximation",
           title: 'SciPy 1.15.0 has been released. There are lots of exciting new features including...',
           description: "",
-          section: "News",},{id: "news-i-will-be-attending-the-icms-modelling-camp-2025-at-the-bayes-centre-edinburgh",
-          title: 'I will be attending the ICMS Modelling Camp 2025 at the Bayes Centre,...',
-          description: "",
           section: "News",},{id: "news-i-will-be-attending-the-3rd-scientific-python-developer-summit-at-the-escience-institute-university-of-washington",
           title: 'I will be attending the 3rd Scientific Python Developer Summit at the eScience...',
           description: "",
           section: "News",},{id: "news-i-was-part-of-the-winning-group-at-the-icms-modelling-camp-2025-we-worked-on-a-project-facilitated-by-trainline-looking-at-possible-improvements-to-the-split-save-ticket-system-using-a-combination-of-machine-learning-and-graph-theory-techniques",
           title: 'I was part of the winning group at the ICMS Modelling Camp 2025....',
           description: "",
-          section: "News",},{id: "news-i-will-be-starting-my-phd-at-the-school-of-engineering-mathematics-and-technology-university-of-bristol-supervised-by-prof-alan-champneys-and-dr-matt-hennessy-during-which-i-will-be-studying-mechanical-biochemical-mathematical-models-for-cell-polarity",
-          title: 'I will be starting my PhD at the School of Engineering Mathematics and...',
-          description: "",
           section: "News",},{id: "news-i-will-be-attending-the-2025-gene-golub-siam-summer-school-on-frontiers-in-multi-dimensional-pattern-formation-at-concordia-university",
           title: 'I will be attending the 2025 Gene Golub SIAM Summer School on Frontiers...',
-          description: "",
-          section: "News",},{id: "news-i-will-be-attending-the-187th-esgi-hosted-by-the-school-of-engineering-mathematics-and-technology-at-the-univeristy-of-bristol",
-          title: 'I will be attending the 187th ESGI hosted by the School of Engineering...',
-          description: "",
-          section: "News",},{id: "news-i-will-be-attending-the-amsterdam-center-for-dynamics-and-computation-acdc-autumn-school-from-microscopic-dynamics-to-continuum-limits",
-          title: 'I will be attending the Amsterdam Center for Dynamics and Computation (ACDC) Autumn...',
           description: "",
           section: "News",},{
         id: 'social-email',

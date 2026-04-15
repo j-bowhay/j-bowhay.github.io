@@ -29,15 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the
-[School of Engineering Mathematics and Technology](https://www.bristol.ac.uk/science-engineering/schools/eng-maths-tech/)
-at the [University of Bristol](https://www.bristol.ac.uk/),
-supervised by <a href='https://hennessymatt.github.io/'>Dr. Matt Hennessy</a>, Dr. Peter
-Lewin-Jones, and Prof. Alan Champneys. I am researching free surface instabilities in
-soft solids. Broadly, I am interested in all things mathematical modelling and
-scientific computing.
-
-Before starting my PhD, I studied for the [MMSC](https://www.maths.ox.ac.uk/members/students/postgraduate-courses/msc-mmsc)
+I studied for the [MMSC](https://www.maths.ox.ac.uk/members/students/postgraduate-courses/msc-mmsc)
 at the [Mathematical Institute](https://www.maths.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), during which I studied a wide range of courses in mathematical modelling
 and numerical analysis. My dissertation was on the application of rational approximation (the [AAA algorithm](https://people.maths.ox.ac.uk/trefethen/AAAfinal.pdf)) to pole and zero finding.
 
